@@ -1,0 +1,36 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #ffffff;
+  color: #222;
+  max-width: 900px;
+  margin: auto;
+  padding: 1rem;
+}
+header {
+  background-color: #f5f5f5;
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+h1 {
+  margin-bottom: 0.5rem;
+  color: #2d4f46;
+}
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #0077cc;
+}
+section {
+  margin-top: 2rem;
+}
+.card {
+  background: #e0e0e0;
+  padding: 1rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+.grey {
+  color: #555;
+  font-style: italic;
+}
